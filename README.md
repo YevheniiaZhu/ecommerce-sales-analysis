@@ -1,8 +1,7 @@
 
 
-### Project 1: E-Commerce Sales & Operational Excellence Analysis
+### Project 1:
 
-```markdown
 # 🛒 E-Commerce Sales & Operational Excellence Analysis
 
 ## 📌 Business Overview
