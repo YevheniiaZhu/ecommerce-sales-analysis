@@ -19,6 +19,6 @@ An end-to-end exploratory analysis of global e-commerce transaction data across 
 ## 📁 Repository Structure
 ```text
 ├── data/              # E-commerce transactions dataset
-├── queries/           # SQL queries for RFM segmentation and funnel metrics
+├── queries/           # SQL queries
 ├── reports/           # Google Sheets / Excel analysis and summary presentation
 └── README.md          # Project documentation
