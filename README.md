@@ -15,7 +15,10 @@ An end-to-end exploratory analysis of global e-commerce transaction data across 
   * **Germany:** High order cancellation rate (**38%**).
 * **Retention Deficit:** Revealed a **0% customer retention rate**, emphasizing an over-reliance on one-off acquisitions without active lifecycle marketing.
 * **Strategic Impact:** Recommended automated email sequences for post-purchase onboarding and a dedicated "White-Glove" delivery service for the high-AOV (Average Order Value) US premium segment.
-
+  
+## 🔗 Project Reports & Presentation
+* 📊 [View Google Sheets Analysis]([https://docs.google.com/spreadsheets/d/your-link](https://docs.google.com/spreadsheets/d/1Ue7JHVv76CQQXfaMCBFLwKld-gy6s0VE1ZMorkD5hW0/edit?usp=sharing))
+  
 ## 📁 Repository Structure
 ```text
 ├── data/              # E-commerce transactions dataset
